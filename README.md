@@ -1,4 +1,4 @@
-# Chinook
+# Assessment - D M Lahiru Tharanga
 
 Please find my updated screenshots. All the basic functionality is working now.
 
@@ -11,11 +11,12 @@ Please find my updated screenshots. All the basic functionality is working now.
 ![image](https://github.com/dlltharanga/TPTuned/assets/3353042/643c0232-edb2-40bc-a3c2-ccf5b5043cbb)
 
 
-**Note : ** 
+**Note**
 1. I have completed most of the parts of below changes.
 2. I didn't consider about UI changes
 3. Initially I have target to the main functionality (1 to 3)
 4. I didn't do any database changes
+5. I tested this with the two different users
 
 
 This application is unfinished. Please complete below tasks. Spend max 2 hours.
