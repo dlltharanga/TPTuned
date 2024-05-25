@@ -83,7 +83,7 @@ else
         <div class="mb-2">
             <label for="ExistingPlaylist">Add to existing playlist</label>
             <select class="form-control" id="ExistingPlaylist" @onchange="selectedPlayListValue">                
-                <option value="0">-Please Select Play List--</option>
+                <option value="0">--Please Select--</option>
                 @foreach (var playList in PlayLists)
                 {
                     <option value="@playList.PlaylistId">@playList.Name</option>

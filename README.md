@@ -16,7 +16,7 @@ Please find my updated screenshots. All the basic functionality is working now.
 2. I didn't consider about UI changes
 3. Initially I have target to the main functionality (1 to 3)
 4. I didn't do any database changes
-5. I tested this with the two different users
+5. I tested this with the two different users (abc@gmail.com  /  _Abc123)
 
 
 This application is unfinished. Please complete below tasks. Spend max 2 hours.
