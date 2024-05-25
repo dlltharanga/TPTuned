@@ -16,3 +16,9 @@ When creating a user account, you will see this:
 After you click 'Click here to confirm your account' you should be able to login.
 
 Please send us a zip file with the modified solution when you are done. You can also upload it to your own GitHub account and send us the link.
+
+
+Please find my updated screenshots.
+
+![image](https://github.com/dlltharanga/TPTuned/assets/3353042/d7515cf9-c694-413b-a2e9-3b29559b0432)
+
