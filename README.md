@@ -14,9 +14,9 @@ Please find my updated screenshots. All the basic functionality is working now.
 **Note**
 1. I have completed most of the parts of below changes.
 2. I didn't consider about UI changes
-3. Initially I have target to the main functionality (1 to 3)
+3. Initially I have targeted to complete main functionality within given time frame (1 to 3)
 4. I didn't do any database changes
-5. I tested this with the two different users (abc@gmail.com  /  _Abc123)
+5. I tested this with the two different users (e.g. abc@gmail.com  /  _Abc123)
 
 
 This application is unfinished. Please complete below tasks. Spend max 2 hours.
@@ -28,7 +28,8 @@ We would like to have a short written explanation of the changes you made.
 
 Optional:
 4. The user's playlists should be listed in the left navbar. **Done**
-If a playlist is added (or modified), this should reflect in the left navbar (NavMenu.razor). Preferrably, this list should be refreshed without a full page reload. (suggestion: you can use Event, Reactive.NET, SectionOutlet, or any other method you prefer) - 
+If a playlist is added (or modified), this should reflect in the left navbar (NavMenu.razor). Preferrably, this list should be refreshed without a full page reload. (suggestion: you can use Event, Reactive.NET, SectionOutlet, or any other method you prefer) - **This is not working. You need to do full page reload**
+
 5. Add tracks to a playlist (existing or new one). The dialog is already created but not yet finished. - **Done**
 
 When creating a user account, you will see this:
